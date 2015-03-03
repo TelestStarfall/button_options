@@ -1,0 +1,2 @@
+content     button_options    chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://button_options/content/button.xul
